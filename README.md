@@ -1,2 +1,4 @@
 # public-paydayapp
+
+[![Join the chat at https://gitter.im/public-paydayapp/Lobby](https://badges.gitter.im/public-paydayapp/Lobby.svg)](https://gitter.im/public-paydayapp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This repository is intended to develop and share in the production of an ES6 application that everyone can benefit from chrome or node. Free use of code assets for not-for-profit developments and licensing will need to be researched today to include a final deployable in the case we can get paid delivering something as a team (or individually if alone) to the public, and to grow new abilities for projects that benefit humanity in the real world. Support is initially intended for US_en however it will be enjoyable learning what sort of internationalization goes into this.
